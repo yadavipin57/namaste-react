@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/.parcel-cache
+
+# node_modules are not required for the production. That is why we are ignoring it.
+# but package.json and package-lock.json are not ignored.
